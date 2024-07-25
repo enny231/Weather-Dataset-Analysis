@@ -8,37 +8,45 @@ Dataset Description Temperature : Degrees Celsius Humidity : Percentage Wind Spe
 
 
 
-<h2>Analysis and Insights
+<h2> Analysis and Insights </h2>
 
-Summary Statistics and Distribution Analysis Objective: Calculate summary statistics and visualize distributions.
-Key Findings: Temperature: Moderate range, significant variability. Humidity: Generally high. Wind Speed: Moderate variability, some extremes. Precipitation: High probabilities common. Atmospheric Pressure: Mostly stable. UV Index: Generally moderate, occasional highs. Visibility: Mostly good, some low visibility instances.
+-Summary Statistics and Distribution Analysis Objective: Calculate summary statistics and visualize distributions.
 
-Correlation Analysis Objective: Identify relationships between numerical features.
-Key Findings: Temperature and Humidity: Negative correlation. Temperature and UV Index: Positive correlation. Humidity and Precipitation: Positive correlation. Wind Speed and Visibility: Positive correlation.
+ Key Findings: Temperature: Moderate range, significant variability. Humidity: Generally high. Wind Speed: Moderate variability, some extremes. Precipitation: High probabilities common. Atmospheric Pressure: Mostly stable. UV Index: 
+ Generally moderate, occasional highs. Visibility: Mostly good, some low visibility instances.
 
-Weather Type Distribution Analysis Objective: Analyze distribution of Weather Types across Seasons and Locations.
-Key Findings: Seasonal: Rainy weather common in Winter/Spring, Sunny in Spring/Summer. Location: Rainy in inland/mountain areas, Sunny in coastal regions.
+-Correlation Analysis Objective: Identify relationships between numerical features.
 
-Temperature Trends Objective: Analyze temperature trends across Seasons and Locations.
-Key Findings: Seasonal Trends: Lower in Winter, higher in Summer. Location Trends: High variability inland, stable in coastal areas.
+ Key Findings: Temperature and Humidity: Negative correlation. Temperature and UV Index: Positive correlation. Humidity and Precipitation: Positive correlation. Wind Speed and Visibility: Positive correlation.
 
-Humidity and Precipitation Analysis Objective: Explore relationship between Humidity and Precipitation.
-Key Findings: Higher humidity leads to higher precipitation probability.
+-Weather Type Distribution Analysis Objective: Analyze distribution of Weather Types across Seasons and Locations.
 
-UV Index Analysis Objective: Analyze UV Index variations with Seasons and Cloud Cover.
-Key Findings: Higher UV Index in Spring/Summer, lower in Winter/Fall. Clear skies have higher UV Index.
+ Key Findings: Seasonal: Rainy weather common in Winter/Spring, Sunny in Spring/Summer. Location: Rainy in inland/mountain areas, Sunny in coastal regions.
 
-Visibility and Atmospheric Pressure Analysis Objective: Examine relationship between Visibility and Atmospheric Pressure.
-Key Findings: Higher atmospheric pressure correlates with better visibility.
+-Temperature Trends Objective: Analyze temperature trends across Seasons and Locations.
 
-Wind Speed Patterns Objective: Identify patterns in Wind Speed across Weather Types and Locations.
+ Key Findings: Seasonal Trends: Lower in Winter, higher in Summer. Location Trends: High variability inland, stable in coastal areas.
+
+-Humidity and Precipitation Analysis Objective: Explore relationship between Humidity and Precipitation.
+
+ Key Findings: Higher humidity leads to higher precipitation probability.
+
+-UV Index Analysis Objective: Analyze UV Index variations with Seasons and Cloud Cover.
+
+ Key Findings: Higher UV Index in Spring/Summer, lower in Winter/Fall. Clear skies have higher UV Index.
+
+-Visibility and Atmospheric Pressure Analysis Objective: Examine relationship between Visibility and Atmospheric Pressure.
+
+ Key Findings: Higher atmospheric pressure correlates with better visibility.
+
+-Wind Speed Patterns Objective: Identify patterns in Wind Speed across Weather Types and Locations.
+
 Key Findings: Lower wind speeds in sunny weather, higher in cloudy/rainy. Higher variability inland, higher speeds in coastal areas.
-</h2>
 
 
 
 <h2>
-Visualizations
+Visualizations </h2>
 
 Histograms and Boxplots: For numerical features distributions.
 
@@ -52,6 +60,6 @@ Boxplots: For trends analysis.
 
 Cluster Scatter Plots: For clustering analysis.
 
-Conclusion This analysis provides a comprehensive understanding of the weather classification data, revealing significant patterns and relationships. These insights can aid in better weather prediction and planning.</h2>
+Conclusion This analysis provides a comprehensive understanding of the weather classification data, revealing significant patterns and relationships. These insights can aid in better weather prediction and planning.
 
 
